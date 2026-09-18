@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Harshita Chadhokar</h1>
 
 <h3 align="center">
-B.Tech CSE Student • Python Developer • Aspiring Data Analyst • Machine Learning Enthusiast
+B.Tech CSE Student • Software Engineer • Python Developer • Data Analyst • Machine Learning Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub+Profile!;Python+Developer;Data+Analytics+Enthusiast;Machine+Learning+Learner;Flask+Developer;Always+Learning+New+Things..." />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub+Profile!;Python+Developer;Data+Analytics+Enthusiast;Machine+Learning+Learner;Always+Learning+New+Things..." />
 </p>
 
 ---

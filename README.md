@@ -95,7 +95,7 @@ Interactive **Power BI Dashboard** providing sales, customer, and profit insight
 
 ---
 
-### Sehat Saathi
+### 🏥 Sehat Saathi
 
 Sehat Saathi is a digital healthcare assistance platform designed to provide convenient access to essential healthcare services through a single application.
 
